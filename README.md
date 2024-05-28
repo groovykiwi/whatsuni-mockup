@@ -16,7 +16,7 @@ WhatsUni is a mock-up of an exclusive social media platform designed specificall
 
 ## Try It Out
 
-You can access the hosted version of WhatsUni [here](whatsuni-mockup.vercel.app).
+You can access the hosted version of WhatsUni [here](https://whatsuni-mockup.vercel.app/login).
 
 ## Installation
 
