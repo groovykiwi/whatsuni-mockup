@@ -8,6 +8,7 @@ WhatsUni is a mock-up of an exclusive social media platform designed specificall
 
 - **Login Screen**: Access the platform using any email and password.
 - **UI Design**: Explore the user interface designed for student interaction.
+- **Mobile Responsive**: a seamless experience across various devices, including mobile phones and tablets.
 - **Future Vision**: Conceptual features include:
   - Campus feed for news, events, and discussions.
   - Secure messaging between students.
@@ -15,7 +16,7 @@ WhatsUni is a mock-up of an exclusive social media platform designed specificall
 
 ## Try It Out
 
-You can access the hosted version of WhatsUni [here](http://your-hosted-url.com).
+You can access the hosted version of WhatsUni [here](whatsuni-mockup.vercel.app).
 
 ## Installation
 
